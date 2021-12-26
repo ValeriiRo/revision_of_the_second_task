@@ -1,0 +1,5 @@
+date of function call: 1640531952.5536244
+function name: function_operation
+attribute name: 3 9 
+return value: 12
+path to logs:C:\Users\VV\Desktop\Decorators\logger.txt
